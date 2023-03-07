@@ -1,4 +1,4 @@
 # Document Understanding Use Case
 
 
-Scraps data from an invoice and writes it to a excel file.
+Scraps data from an invoice and writes it to a excel file with a human-in-loop iva Action Center.
